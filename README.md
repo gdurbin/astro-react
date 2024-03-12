@@ -1,6 +1,6 @@
 # [Astro-React-Template](https://github.com/gdurbin/astro-react)
 
-###### [Live Demo](https://astro-react-tmp.pages.dev)
+##### [Live Demo](https://astro-react-tmp.pages.dev)
 
 ## Stack
 

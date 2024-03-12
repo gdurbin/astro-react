@@ -4,8 +4,8 @@
 
 ## Stack
 
-### [Astro](https://astro.build "Astro Website")
+### ![Astro Logo](/src/assets/logos/astro-logo.svg "Astro Logo") [Astro](https://astro.build "Astro Website")
 
-### [React](https://react.dev/ "React Website")
+### ![React Logo](/src/assets/logos/react-logo.svg "React Logo") [React](https://react.dev/ "React Website")
 
-### [Tailwind CSS](https://tailwindcss.com/ "Tailwind Website")
+### ![Tailwind Logo](/src/assets/logos/tailwind-logo.svg "Tailwind Logo") [Tailwind CSS](https://tailwindcss.com/ "Tailwind Website")

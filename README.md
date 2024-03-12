@@ -1,7 +1,7 @@
 # ASTRO-REACT-TEMPLATE
 
----
+## [Astro-React Template](https://astro-react-tmp.pages.dev)
 
-- Astro
-- React
-- Tailwind CSS
+- [Astro](https://astro.build)
+- [React](https://react.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
